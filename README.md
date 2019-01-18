@@ -4,12 +4,12 @@ Fichier [Chirp](https://chirp.danplanet.com/projects/chirp/wiki/Home) orienté p
 
 ## Fréquences pré-enregistrées
 
-| Canal   | Description                                                                                                 |
-|---------|-------------------------------------------------------------------------------------------------------------|
-| 0       | La [FFVL](http://pmr446.free.fr/index_vol-libre.htm)                                                        |
-| 1-8     | Les fréquences [talkie walkie](https://fr.wikipedia.org/wiki/PMR446)                                        |
-| 9       | Les secours en montagne ([canal E](https://fr.wikipedia.org/wiki/Canal_E_(VHF))                             |
-| 10      | [Appel d'urgence Europe](https://en.wikipedia.org/wiki/International_distress_frequency) bande des 2 mètres |
+| Canal   | Description                                                                                                    |
+|---------|----------------------------------------------------------------------------------------------------------------|
+| 0       | [FFVL](http://pmr446.free.fr/index_vol-libre.htm)                                                              |
+| 1-8     | Fréquences [talkie walkie](https://fr.wikipedia.org/wiki/PMR446)                                               |
+| 9       | Secours Montagne ([canal E](https://fr.wikipedia.org/wiki/Canal_E_(VHF)))                                      |
+| 10      | [Appel d'urgence Europe](https://en.wikipedia.org/wiki/International_distress_frequency) en bande des 2 mètres |
 
 Les [LPD433](https://fr.wikipedia.org/wiki/LPD433) n'y sont pas programmées car la puissance autorisée est trop faible pour une utilisation sérieuse.
 
