@@ -1,6 +1,6 @@
 # uv5r-ffvl
 
-Fichier chirp orienté parapentisme pour la radio baofeng uv5r.
+Fichier [Chirp](https://chirp.danplanet.com/projects/chirp/wiki/Home) orienté parapentisme pour la radio baofeng uv5r. Chirp [fonctionne très bien sous Linux](https://chirp.danplanet.com/projects/chirp/wiki/Running_Under_Linux).
 
 ## Fréquences pré-enregistrées
 
@@ -25,4 +25,4 @@ Ceci permet de consulter à la fois la fréquence d'un canal enregistré et son 
 ## Rappels utiles
 
 Il faut se mettre en mode fréquence pour pouvoir mémoriser un canal. Seule la ligne du haut (A) peut être mémorisée.
-Il existe un [manuel d'utilisation non officiel](https://radiodoc.github.io/uv-5r/)
+Il existe un [manuel d'utilisation non officiel](https://radiodoc.github.io/uv-5r/).
