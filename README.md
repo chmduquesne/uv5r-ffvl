@@ -15,12 +15,16 @@ Les [LPD433](https://fr.wikipedia.org/wiki/LPD433) n'y sont pas programmées car
 
 ## Réglages
 
-### Lignes A/B
+### Autolock
 
-* La ligne du haut (A) est réglée pour afficher la fréquence du canal
-* La ligne du bas (B) est réglée pour afficher le nom du canal
+* l'autolock est activé
 
-Ceci permet de consulter à la fois la fréquence d'un canal enregistré et son nom (en se positionnant sur le même canal sur les lignes A et B).
+### Modes d'affichage des lignes
+
+* La ligne du haut (A) affiche la fréquence de son canal
+* La ligne du bas (B) affiche le nom de son canal
+
+Ceci permet de consulter la fréquence d'un canal enregistré en choisissant le même canal pour A et B.
 
 ### Dual watch
 
