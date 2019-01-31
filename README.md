@@ -15,12 +15,23 @@ Les [LPD433](https://fr.wikipedia.org/wiki/LPD433) n'y sont pas programmées car
 
 ## Réglages
 
-Pour faciliter les réglages sur le terrain:
+### Lignes A/B
 
 * La ligne du haut (A) est réglée pour afficher la fréquence du canal
 * La ligne du bas (B) est réglée pour afficher le nom du canal
 
 Ceci permet de consulter à la fois la fréquence d'un canal enregistré et son nom (en se positionnant sur le même canal sur les lignes A et B).
+
+### Dual watch
+
+* La radio est réglée pour écouter sur A et B en même temps, mais pour
+  n'émettre que sur A. L'idée est d'écouter la FFVL sur B et de parler sur
+  A.
+
+### Message de démarrage
+
+* La radio indique Tof's Radio au démarrage. Sentez-vous libre de modifier
+  ce message!
 
 ## Rappels utiles
 
