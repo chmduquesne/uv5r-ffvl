@@ -7,9 +7,10 @@ Fichier [Chirp](https://chirp.danplanet.com/projects/chirp/wiki/Home) orienté p
 | Canal   | Description                                                                                                    |
 |---------|----------------------------------------------------------------------------------------------------------------|
 | 0       | [FFVL](http://pmr446.free.fr/index_vol-libre.htm)                                                              |
-| 1-8     | Fréquences [talkie walkie](https://fr.wikipedia.org/wiki/PMR446)                                               |
-| 9       | Secours Montagne ([canal E](https://fr.wikipedia.org/wiki/Canal_E_(VHF)))                                      |
-| 10-48   | Tous les sous-canaux CTCSS des radios Midland pour la PMR1                                                     |
+| 1       | Secours Montagne ([canal E](https://fr.wikipedia.org/wiki/Canal_E_(VHF)))                                      |
+| 2       | Bodenlos                                                                                                       |
+| 3-18    | Fréquences [talkie walkie](https://fr.wikipedia.org/wiki/PMR446)                                               |
+| 19-56   | Sous-canaux CTCSS 1-38 des radios Midland pour la PMR 01                                                       |
 
 Les [LPD433](https://fr.wikipedia.org/wiki/LPD433) n'y sont pas programmées car la puissance autorisée est trop faible pour une utilisation sérieuse.
 
