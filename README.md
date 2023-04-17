@@ -6,11 +6,12 @@ Fichier [Chirp](https://chirp.danplanet.com/projects/chirp/wiki/Home) orienté p
 
 | Canal   | Description                                                                                                    |
 |---------|----------------------------------------------------------------------------------------------------------------|
-| 0       | [FFVL](http://pmr446.free.fr/index_vol-libre.htm)                                                              |
-| 1       | Secours Montagne ([canal E](https://fr.wikipedia.org/wiki/Canal_E_(VHF)))                                      |
-| 2       | Bodenlos                                                                                                       |
-| 3-18    | Fréquences [talkie walkie](https://fr.wikipedia.org/wiki/PMR446)                                               |
-| 19-56   | Sous-canaux CTCSS 1-38 des radios Midland pour la PMR 01                                                       |
+| 0       | [FFVL Sécurité](https://federation.ffvl.fr/pages/fr-quences-et-postes-radio-pour-vol-libre#F_SECU)             |
+| 1       | [FFVL Volants](https://federation.ffvl.fr/pages/fr-quences-et-postes-radio-pour-vol-libre#F_VOLANTS)           |
+| 2       | Fréquence du DUCK                                                                                              |
+| 3       | Secours Montagne ([canal E](https://fr.wikipedia.org/wiki/Canal_E_(VHF)))                                      |
+| 4-19    | Fréquences [talkie walkie](https://fr.wikipedia.org/wiki/PMR446)                                               |
+| 20-57   | Sous-canaux CTCSS 1-38 des radios Midland pour la PMR 01                                                       |
 
 Les [LPD433](https://fr.wikipedia.org/wiki/LPD433) n'y sont pas programmées car la puissance autorisée est trop faible pour une utilisation sérieuse.
 
