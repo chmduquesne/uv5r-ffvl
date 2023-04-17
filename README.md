@@ -36,7 +36,7 @@ Ceci permet de consulter la fréquence d'un canal enregistré en choisissant le 
 
 ### Message de démarrage
 
-* La radio indique Tof's Radio au démarrage. Sentez-vous libre de modifier
+* La radio indique "Coin Coin" au démarrage. Sentez-vous libre de modifier
   ce message!
 
 ## Rappels utiles
